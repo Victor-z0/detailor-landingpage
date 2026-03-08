@@ -434,4 +434,4 @@ function TableRow({ feature, e, c, ex }: { feature: string, e: boolean | string,
       <td className="p-4 text-center">{renderCell(ex)}</td>
     </tr>
   );
-}
+} 
