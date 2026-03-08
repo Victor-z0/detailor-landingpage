@@ -377,8 +377,8 @@ export default function DetailorLanding() {
               A detailer's best friend. Simplifying your business operations so you can focus on what matters most.
             </p>
             <div className="flex flex-col gap-2 mt-4 text-sm text-slate-400">
-               <span className="flex items-center gap-2"><MapPin size={16}/> Durham, NC</span>
-               <span className="flex items-center gap-2"><Phone size={16}/> +1 (555) 555-0199</span>
+               <span className="flex items-center gap-2"><MapPin size={16}/> United States</span>
+               <span className="flex items-center gap-2"><Phone size={16}/> +1 (320) 529-0199</span>
             </div>
           </div>
 
